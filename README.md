@@ -6,6 +6,6 @@
 ⚡**Fun Fact** I like to rap
 
 ##⚒️Tools 
-Python
-Web Development (HTML/ CSS)
-Command Line CLI
+1.Python
+2.Web Development (HTML/ CSS)
+3.Command Line CLI
