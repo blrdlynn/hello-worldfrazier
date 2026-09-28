@@ -5,4 +5,7 @@
 🎯**Current Focus** Graduating
 ⚡**Fun Fact** I like to rap
 
-##⚒️Tools Python
+##⚒️Tools 
+Python
+Web Development (HTML/ CSS)
+Command Line CLI
